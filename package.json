@@ -10,6 +10,6 @@
   "license": "ISC",
   "dependencies": {
     "grpc": "^1.19.0",
-    "lodash": "^4.16.0"
+    "lodash": "^4.17.13"
   }
 }
